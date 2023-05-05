@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/test-repo/static/js/main.5f22a93f.js",
-    "index.html": "/test-repo/index.html",
-    "main.5f22a93f.js.map": "/test-repo/static/js/main.5f22a93f.js.map"
+    "main.js": "/team-theme/static/js/main.5f22a93f.js",
+    "index.html": "/team-theme/index.html",
+    "main.5f22a93f.js.map": "/team-theme/static/js/main.5f22a93f.js.map"
   },
   "entrypoints": [
     "static/js/main.5f22a93f.js"
