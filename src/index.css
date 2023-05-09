@@ -24,7 +24,7 @@
      transition-duration: 0.5s;
   }
   .teamcard:hover .team-hh{
-     color: black;
+     color: black;}
 .speakers{
     background-image:linear-gradient(to right, rgba(5, 73, 161, 0.73), rgba(5, 73, 161, 0.73)),url('./images/6.jpg');
     background-size: 100% 100%;
