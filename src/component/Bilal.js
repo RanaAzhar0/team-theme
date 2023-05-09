@@ -3,6 +3,16 @@ import {FaFacebookF} from "react-icons/fa"
 import {AiOutlineTwitter} from "react-icons/ai"
 import {IoIosFootball} from "react-icons/io"
 import {TbBrandProducthunt} from "react-icons/tb"
+import Img1 from '../images/speaker-1.jpg'
+import Img2 from '../images/speaker-2.jpg'
+import Img3 from '../images/speaker-3.jpg'
+import Img4 from '../images/speaker-4.jpg'
+import Img5 from '../images/speaker-5.jpg'
+import Img6 from '../images/speaker-6.jpg'
+import Img7 from '../images/speaker-7.jpg'
+import Img8 from '../images/speaker-8.jpg'
+
+
 
 
 
@@ -25,7 +35,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-1.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img1} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh] ">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -38,7 +48,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-2.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img2} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh] ">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -51,7 +61,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-3.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img3} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh] ">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -64,7 +74,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-4.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img4} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh]">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -77,7 +87,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-5.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img5} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh] ">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -90,7 +100,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-6.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img6} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh] ">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -103,7 +113,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center"><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-7.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img7} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
                     <div className="Speaker-circule relative overflow-hidden rounded-full  h-[38vh]">
                         <div className="mid absolute flex justify-center items-center flex-col rounded-full ml-[-275px] mt-[-10px] h-[38vh] w-[265px]">
@@ -116,7 +126,7 @@ function Bilal() {
                                 <div className="h-[100%] w-[22%] bg-white cursor-pointer flex justify-center items-center "><IoIosFootball className="text-xl text-pink-500"/></div>
                             </div>
                         </div>
-                        <img src='/image/speaker-8.jpg' className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
+                        <img src={Img8} className="Speaker-circule-img rounded-full h-[100%] w-[100%]"/>
                     </div>
 
                 </div>
