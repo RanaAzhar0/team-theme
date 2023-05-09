@@ -18,7 +18,7 @@ const Navbar = () => {
 
     return (
         <>
-            <div className={colorChange ? 'navbar colorChange h-16  w-[100%] flex  duration-200 flex-row justify-around  z-50 top-0 sticky' : 'navbar h-16  w-[100%] flex flex-row justify-around z-50 top-0 absolute duration-200'}>
+            <div className={colorChange ? 'navbar colorChange h-16  w-[100%] flex  duration-900 flex-row justify-around  z-50 top-0 sticky' : 'navbar h-16  w-[100%] flex flex-row justify-around z-50 top-0 absolute duration-900'}>
                 <div className='h-14 w-[8%] py-2.5 px-5 flex items-center'>
                     {
                         navbarData.logo.map(ele => <img src={ele} />)
