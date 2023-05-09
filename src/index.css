@@ -11,3 +11,18 @@
 .navbar.colorChange{
     background-color: white;
 }
+.team-card {
+    border: 4px solid white;
+    padding: 4px;
+    transition-duration:0.5s ;
+ }
+ .teamcard:hover .team-card{
+     border: 4px solid black;
+     padding: 5px;
+  }
+  .team-hh{
+     transition-duration: 0.5s;
+  }
+  .teamcard:hover .team-hh{
+     color: black;
+  }
